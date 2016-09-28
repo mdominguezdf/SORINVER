@@ -1,0 +1,9 @@
+Module1 = 69, 69, 676, 613, Z
+FrmFiltroImpCotAcciones = 184, 184, 785, 653, , 115, 115, 716, 584, C
+FrmPrincipal = 69, 69, 676, 613, C, 23, 23, 630, 567, C
+frmAcercaDe = 0, 0, 1093, 733, , 184, 184, 787, 653, C
+frmArbolAcciones = 138, 138, 739, 607, , 115, 115, 716, 584, C
+FrmFiltroImpCotMercados = 92, 92, 693, 561, , 69, 69, 670, 538, C
+frmConfiguracionIndicadores = 138, 138, 436, 674, , 92, 92, 699, 636, C
+frmMercadosSegmentados = 46, 46, 649, 515, , 23, 23, 626, 492, C
+frmFichaValor = 46, 46, 743, 526, , 46, 46, 647, 515, C
